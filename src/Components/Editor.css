@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin: 15%;
+    background-color: rgb(91, 91, 235);
+    color: rgb(57, 64, 64);
+}
+h1{
+    font-size: 40px;
+}
+.input{
+    margin: 4%;
+   font-weight: bold;
+   font-size: 30px;
+}
+.value{
+    margin: 4%;
+    font-weight: bold;
+    font-size: 30px;
+}
+.in{
+    height: 40px;
+    width: 200px;
+    margin-right: 15%;
+}
+.add{
+    background-color: black;
+    line-height: 100px;
+    overflow: auto;
+    color: white;
+    margin-top: 5%;
+    font-size: 20px;
+    border-radius: 8px;
+}
